@@ -1,6 +1,6 @@
-This is my first Java project that I did at school 6 months ago and that I just pushed from Eclipse to GitHub. The interface is built with Java Swing. The database is built using Excel.
+## This is my first Java project that I did at school 6 months ago and that I just pushed from Eclipse to GitHub. The interface is built with Java Swing. The database is built using Excel.
 
-## Library information at the top, with a translucent black background.
+# Library information at the top, with a translucent black background.
 ![image](https://github.com/bmalouli/Library-data-management-in-Java/assets/116194037/e6d901d1-02ae-4e8b-8400-85cf38745a2c)
 
 

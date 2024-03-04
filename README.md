@@ -1,4 +1,4 @@
-#### This is my first Java project that I did at school 10 months ago and that I just pushed from Eclipse to GitHub. The interface is built with Java Swing and the database is built using Excel.
+#### This is my first Java desktop project that I did at school 10 months ago and that I just pushed from Eclipse to GitHub. The interface is built with Java Swing and the database is built using Excel.
 
 ## Main window
 - Library information at the top, with a translucent black background.
